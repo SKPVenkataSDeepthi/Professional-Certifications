@@ -6,7 +6,7 @@ I have participated in various Microsoft Learn challenges, earning certification
 
 You can view all my achievements and certifications through the following link:
 
-[My Microsoft Learn Achievements](https://learn.microsoft.com/en-us/users/srikotapeetambaramvenkatasrideepth-5865/achievements?tab=tab-challenges)
+[Achievements from Microsoft 30-Day Challenges](https://learn.microsoft.com/en-us/users/srikotapeetambaramvenkatasrideepth-5865/achievements?tab=tab-challenges)
 
 Feel free to explore the different challenges I've completed and the certifications I've earned!
 
