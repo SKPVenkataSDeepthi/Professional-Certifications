@@ -1,4 +1,4 @@
-# Microsoft 30 Days Challenges Certifications
+# Microsoft 30 Days Challenge
 
 Welcome to my Microsoft 30 Days Challenges Certifications!
 
